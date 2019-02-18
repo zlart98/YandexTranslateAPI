@@ -13,8 +13,7 @@ import org.omg.CORBA.Object;
 public class YandexTranslate {
 
     private String text;
-    private String key = "trnsl.1.1.20190211T182454Z.58ba850" +
-            "0e2a93ae4.709c91366177e7eee54cf121c40f7e44fec9a6ae";
+    private String key = "**";
 
 
     YandexTranslate(String text) {
